@@ -554,9 +554,9 @@
             <div>
                 <h1 class="text-5xl font-bold">Atommodell nach Rutherford</h1>
                 <p class="text-2xl">
-                    <span class="text-red-500">Ernest Rutherford</span> war ein englischer Physiker, der im 19.
-                    Jahrhundert lebte. <br/>
-                    Er führte ein Experiment durch, bei dem er <span class="text-red-500">Alpha-Strahlen</span> auf
+                    <span class="text-red-500">Ernest Rutherford</span> war ein englischer Physiker, der im 19. <br/>
+                    Jahrhundert lebte. 
+                    Er führte ein Experiment durch, bei dem er <br/><span class="text-red-500">Alpha-Strahlen</span> auf
                     eine Goldfolie schoss. <br/>
                     Dabei stellte er sich das Atom als <span class="text-red-500">positiv geladenen</span> Kern vor,
                     <br/>
@@ -580,10 +580,10 @@
                 <p class="text-2xl">
                     <span class="text-red-500">Niels Bohr</span> war ein dänischer Physiker, der im 19. Jahrhundert
                     lebte. <br/>
-                    Er stellte sich das Atom als <span class="text-red-500">positiv geladenen</span> Kern vor,
+                    Er stellte sich das Atom als <span class="text-red-500">positiv geladenen</span> Kern vor,<br />
                     um den die <span class="text-red-500">Elektronen</span> kreisen. <br/>
-                    Die Elektronen können sich nur auf bestimmten <span class="text-red-500">Energieniveaus</span>
-                    aufhalten.
+                    Die Elektronen können sich nur auf <br />bestimmten <span class="text-red-500">Energieniveaus</span>
+                    (Schalen) aufhalten.
                 </p>
                 <p class="text-2xl mt-20 opacity-0 transition-opacity" class:opacity-100={scroll > 8}>
                     Die Elektronen können <span class="text-red-500">Energie aufnehmen</span> und <br/>
@@ -601,15 +601,15 @@
                 <h1 class="text-5xl font-bold">Das Orbitalmodell</h1>
                 <p class="text-2xl">
                     Das Orbitalmodell ist das <span class="text-red-500">aktuelle Atommodell</span>. <br/>
-                    Es wurde von <span class="text-red-500">Erwin Schrödinger</span> und <span
-                        class="text-red-500">Werner Heisenberg</span> entwickelt. <br/>
-                    Es ist ein <span class="text-red-500">Wahrscheinlichkeitsmodell</span>.
+                    Es wurde von <span class="text-red-500">Erwin Schrödinger</span> und <br/><span
+                        class="text-red-500">Werner Heisenberg</span> entwickelt
+                    und ist ein <span class="text-red-500">Wahrscheinlichkeitsmodell</span>.<br/>
                     Die Elektronen können sich nur auf bestimmten <br /> <span class="text-red-500">Energieniveaus</span>
                     namens <span class="text-red-500">Orbitale</span> aufhalten.
 
                 </p>
                 <p class="text-2xl mt-20 opacity-0 transition-opacity" class:opacity-100={scroll > 10}>
-                    Ein Wahrscheinlichkeitsmodell bedeutet, dass die Elektronen <br/>
+                    Wahrscheinlichkeitsmodell bedeutet, dass die Elektronen <br/>
                     nicht auf einer festen Bahn um den Kern kreisen, <br/>
                     sondern sich in einem <span class="text-red-500">Wahrscheinlichkeitsraum</span> aufhalten.
                 </p>
@@ -668,7 +668,7 @@
     }
 
     .after-name::after {
-        content: "Wasserstoff";
+        content: "H - 1s-Orbital";
         transform: translate(0, 200px);
         font-size: 1.5rem;
         color: #ffffff;
