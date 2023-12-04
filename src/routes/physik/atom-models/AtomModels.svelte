@@ -495,7 +495,7 @@
                     die sich in einem leeren Raum bewegen.
                 </p>
                 <p class="text-2xl mt-20 opacity-0 transition-opacity" class:opacity-100={scroll > 0.8}>
-                    Demokrit fand dies heraus, indem er ein Stück Kreide immer weiter zerkleinerte. <br/>
+                    Er fand dies heraus, indem er ein Stück Kreide immer weiter zerkleinerte. <br/>
                     Er stellte fest, dass es einen Punkt gab, an dem es nicht mehr möglich war, <br/>
                     ob dieses dem heutigen Atom entspricht, ist jedoch fraglich.
                 </p>
@@ -509,10 +509,10 @@
             <div>
                 <h1 class="text-5xl font-bold">Atommodell nach Dalton</h1>
                 <p class="text-2xl">
-                    <span class="text-red-500">John Dalton</span> war ein englischer Naturforscher, der im 19.
+                    <span class="text-red-500">John Dalton</span> war ein englischer Naturforscher, der im 19. <br/>
                     Jahrhundert
-                    lebte. <br/>
-                    Für ihn war das Atom ein winziges, immer noch <span class="text-red-500">untrennbares</span>
+                    lebte.
+                    Für ihn war das Atom <br/>ein winziges, immer noch <span class="text-red-500">untrennbares</span>
                     Teilchen. <br/>
                     Er stellte sich das Atom als winzige Kugel vor, <br/> die von Element zu Element <span
                         class="text-red-500">unterschiedlich</span> ist.
@@ -532,7 +532,7 @@
             <div>
                 <h1 class="text-5xl font-bold">Atommodell nach Thomson</h1>
                 <p class="text-2xl">
-                    <span class="text-red-500">J. J. Thomson</span> war ein englischer Physiker, der im 19.
+                    <span class="text-red-500">J. J. Thomson</span> war<br/> ein englischer Physiker, der im 19.
                     Jahrhundert lebte. <br/>
                     In einem Experiment konnte er nachweisen, <br/> dass Atome aus <span class="text-red-500">kleineren
                         Teilchen</span> bestehen. <br/>
@@ -554,12 +554,11 @@
             <div>
                 <h1 class="text-5xl font-bold">Atommodell nach Rutherford</h1>
                 <p class="text-2xl">
-                    <span class="text-red-500">Ernest Rutherford</span> war ein englischer Physiker, der im 19. <br/>
-                    Jahrhundert lebte. 
+                    <span class="text-red-500">Ernest Rutherford</span> war ein neuseeländischer Physiker, <br/>der im 19. 
+                    Jahrhundert lebte. <br/>
                     Er führte ein Experiment durch, bei dem er <br/><span class="text-red-500">Alpha-Strahlen</span> auf
                     eine Goldfolie schoss. <br/>
-                    Dabei stellte er sich das Atom als <span class="text-red-500">positiv geladenen</span> Kern vor,
-                    <br/>
+                    Dabei stellte er sich das Atom als <span class="text-red-500">positiv<br/> geladenen</span> Kern vor, 
                     um den die <span class="text-red-500">Elektronen</span> kreisen.
                 </p>
                 <p class="text-2xl mt-20 opacity-0 transition-opacity" class:opacity-100={scroll > 4}>
@@ -578,7 +577,7 @@
             <div>
                 <h1 class="text-5xl font-bold">Atommodell nach Bohr</h1>
                 <p class="text-2xl">
-                    <span class="text-red-500">Niels Bohr</span> war ein dänischer Physiker, der im 19. Jahrhundert
+                    <span class="text-red-500">Niels Bohr</span> war ein dänischer <br/>Physiker, der im 19. Jahrhundert
                     lebte. <br/>
                     Er stellte sich das Atom als <span class="text-red-500">positiv geladenen</span> Kern vor,<br />
                     um den die <span class="text-red-500">Elektronen</span> kreisen. <br/>
@@ -603,9 +602,8 @@
                     Das Orbitalmodell ist das <span class="text-red-500">aktuelle Atommodell</span>. <br/>
                     Es wurde von <span class="text-red-500">Erwin Schrödinger</span> und <br/><span
                         class="text-red-500">Werner Heisenberg</span> entwickelt
-                    und ist ein <span class="text-red-500">Wahrscheinlichkeitsmodell</span>.<br/>
-                    Die Elektronen können sich nur auf bestimmten <br /> <span class="text-red-500">Energieniveaus</span>
-                    namens <span class="text-red-500">Orbitale</span> aufhalten.
+                    und <br/>ist ein <span class="text-red-500">Wahrscheinlichkeitsmodell</span>.<br/>
+                    Die Elektronen halten sich in bestimmten <br /> <span class="text-red-500">Orbitale</span> auf.
 
                 </p>
                 <p class="text-2xl mt-20 opacity-0 transition-opacity" class:opacity-100={scroll > 10}>
